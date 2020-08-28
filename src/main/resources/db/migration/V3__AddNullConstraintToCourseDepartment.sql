@@ -1,0 +1,1 @@
+ALTER TABLE course ALTER departement SET NOT NULL ;

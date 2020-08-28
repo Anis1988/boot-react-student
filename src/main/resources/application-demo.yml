@@ -1,0 +1,16 @@
+spring:
+  profiles:
+    active: spring.profiles.active@
+
+server:
+  port: 5000
+
+app:
+    datasource:
+      jdbc-url: jdbc:postgresql://fullstackdb.cnuhb8l2lidu.us-west-1.rds.amazonaws.com:5432/anismedini
+      username: anis1011
+      password: Scorpion1011!
+      pool-size: 30
+
+
+
